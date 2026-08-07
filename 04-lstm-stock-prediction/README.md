@@ -21,10 +21,8 @@ AAPL daily closing prices (`data/stock_data.csv`), using a 5-day sliding window 
 | Window size | 5 | 5 |
 
 ![Scratch LSTM: actual vs predicted closing price](assets/lstm_scratch_results.png)
-*Actual vs. predicted closing price on the test set, scratch NumPy LSTM.*
 
 ![Keras LSTM: actual vs predicted closing price](assets/lstm_keras_results.png)
-*Actual vs. predicted closing price on the test set, TensorFlow/Keras LSTM.*
 
 ## How to run
 1. Open `lstm.ipynb` in Google Colab.
