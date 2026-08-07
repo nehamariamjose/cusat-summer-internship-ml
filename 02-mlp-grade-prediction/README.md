@@ -15,8 +15,8 @@ Student Performance dataset (`student-mat.csv`), using features `studytime`,
 
 | Metric | Scratch (NumPy) | TensorFlow/Keras |
 |--------|------------------|-------------------|
-| MSE    | 4.8123           | 3.0456            |
-| MAE    | 1.5383           | 1.0809            |
+| MSE    | 4.8123           | 3.3207            |
+| MAE    | 1.5383           | 1.1727           |
 
 ![Loss Curve — Scratch](assets/loss_curve_scratch.png)
 ![Loss Curve — Keras](assets/loss_curve_keras.png)
