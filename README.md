@@ -1,4 +1,5 @@
-# cusat-summer-internship-ml
+# Advanced Mathematical Foundations of Machine Learning and Deep Learning - CUSAT SUMMER INTERNSHIP JUNE 2026
+
 This repository contains five deep learning architectures implemented from scratch in NumPy, mirrored in TensorFlow/Keras, and documented with accompanying math notes. Built during my ML/DL internship at CUSAT in June 2026.
 
 ## Projects
@@ -11,9 +12,9 @@ This repository contains five deep learning architectures implemented from scrat
 | 4 | [LSTM Stock Prediction](./04-lstm-stock-prediction) | LSTM regression predicting next-day AAPL closing price from a 5-day window |
 | 5 | [CNN Brain Tumor Detection](./05-cnn-brain-tumor-detection) | CNN classifying brain MRI scans as tumor / no tumor |
 
-Math Notes
+## Math Notes
+A single combined PDF walks through the math and code for all five projects — derivations, line-by-line explanations tied to each code snippet, and analysis of the actual training/test results: [math-notes.pdf](./math-notes.pdf)
 
-A single combined PDF walks through the math and code for all five projects — derivations, line-by-line explanations tied to each code snippet, and analysis of the actual training/test results: math-notes.pdf
 
 ## Setup
 ```bash
