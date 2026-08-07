@@ -1,4 +1,4 @@
-# 02 -- Multi-Layer Perceptron (MLP)
+# 02- Multi-Layer Perceptron (MLP)
 
 Regression model predicting final grade (G3) for students, using an MLP trained 
 from scratch (NumPy) and compared against a TensorFlow/Keras implementation.
