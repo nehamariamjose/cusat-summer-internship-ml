@@ -26,7 +26,10 @@ predicting `next_day_temp`.
 > representative run; expect minor fluctuation (~±0.5 MSE) if re-run.
 
 ![Actual vs Predicted — Scratch](assets/predictions_scratch.png)
+*Actual vs. predicted next-day temperature (scratch NumPy model) across the test set.*
+
 ![Actual vs Predicted — Keras](assets/predictions_keras.png)
+*Actual vs. predicted next-day temperature (Keras model) across the test set.*
 
 ## How to run
 1. Open `rnn.ipynb` in Google Colab.

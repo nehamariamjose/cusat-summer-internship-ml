@@ -1,4 +1,4 @@
-# SVD Image Compression from Scratch
+# 01- SVD Image Compression from Scratch
 
 Implements Singular Value Decomposition (SVD) from scratch using power
 iteration with deflation, compared against TensorFlow's `tf.linalg.svd`.
