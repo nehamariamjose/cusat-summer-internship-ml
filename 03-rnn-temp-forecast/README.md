@@ -17,8 +17,8 @@ predicting `next_day_temp`.
 
 | Metric | Scratch (NumPy) | TensorFlow/Keras |
 |--------|------------------|-------------------|
-| MSE    | 2.6384           | 2.6221            |
-| MAE    | 1.3939           | 1.3666            |
+| MSE    | 2.6384           | 2.5771            |
+| MAE    | 1.3939           | 1.3564            |
 
 > **Note:** Keras results vary slightly between runs even with a fixed 
 > random seed, likely due to GPU non-determinism in per-sample 

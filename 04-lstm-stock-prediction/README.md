@@ -14,8 +14,8 @@ AAPL daily closing prices (`data/stock_data.csv`), using a 5-day sliding window 
 ## Results
 | Metric | Scratch (NumPy) | TensorFlow/Keras |
 |--------|------------------|-------------------|
-| MSE    | 18.0392 | 17.6525 |
-| MAE    | 2.8595  | 2.9239  |
+| MSE    | 18.0392 | 21.1109 |
+| MAE    | 2.8595  | 3.1818  |
 | Epochs | 1000 | 1000 |
 | Hidden size | 8 | 8 |
 | Window size | 5 | 5 |
